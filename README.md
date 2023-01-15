@@ -1,1 +1,1 @@
-# freecodecamp-js-tutorial
+# js-tutorial
